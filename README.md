@@ -11,7 +11,7 @@ Just select word (or short text), press ctrl+c and then alt+x. Script translates
 
 ## Requirements
 [![Generic badge](https://img.shields.io/badge/Python-3.x-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/AutoHotKey-.x.x-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/AutoHotKey-x.x-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Module-win10toast-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Module-googletrans-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Module-pyperclip-green.svg)](https://shields.io/)
